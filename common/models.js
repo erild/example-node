@@ -18,4 +18,4 @@ module.exports = {
         cQuantity: { type: Number },
         cStatus : { type: Boolean, default: false  }
     }
-};
+}
